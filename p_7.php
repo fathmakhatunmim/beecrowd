@@ -23,10 +23,4 @@ $a = intval(fgets(STDIN));
      echo $months." mes(es)"."\n";
      echo $day." dia(s)"."\n"; 
 
-
-
-
-
-
-
 ?>
